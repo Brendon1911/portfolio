@@ -55,7 +55,7 @@
   .menu .portrait {
     width: 250px;
     height: 250px;
-    background: url(../img/portrait.jpg);
+    background: url(../img/brendon-portrait.jpg);
     border-radius: 50%;
     border: solid 3px #eece1a; }
   .menu .nav-item {
@@ -175,6 +175,14 @@ main {
     padding: 0.5rem;
     border-bottom: #eece1a 5px solid; }
 
+.skill-logo {
+  border: none;
+  display: block;
+  margin: 0.5rem auto; }
+
+.text-center {
+  text-align: center; }
+
 .projects {
   display: grid;
   grid-gap: 0.7rem;
@@ -261,7 +269,7 @@ main {
     height: 25vh;
     transform: translate3d(100%, 0, 0); }
     .menu-branding .portrait {
-      background: url(../img/portrait_small.jpg);
+      background: url(../img/brendon-portrait-small.jpg);
       width: 150px;
       height: 150px; }
   .about-info {

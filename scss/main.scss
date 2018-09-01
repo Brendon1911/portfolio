@@ -111,6 +111,16 @@ main {
   }
 }
 
+.skill-logo {
+  border: none;
+  display: block;
+  margin: 0.5rem auto;
+}
+
+.text-center {
+  text-align: center;
+}
+
 // Work/Projects
 .projects {
   display: grid;
