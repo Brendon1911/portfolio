@@ -164,6 +164,9 @@ main {
   .about-info .bio {
     grid-area: bio;
     font-size: 1.5rem; }
+    .about-info .bio p > a {
+      color: #0000EE;
+      text-decoration: underline; }
   .about-info .job1 {
     grid-area: job1; }
   .about-info .job2 {

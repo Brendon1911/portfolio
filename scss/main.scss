@@ -91,6 +91,11 @@ main {
   .bio {
     grid-area: bio;
     font-size: 1.5rem;
+    
+    p > a {
+      color: #0000EE;
+      text-decoration: underline;
+    }
   }
   
   .job1 {
